@@ -21,13 +21,13 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94763427338']
-global.premium = ['94763427338']
-global.ownernomer = '94763427338'
+global.owner = ['212661809542']
+global.premium = ['212661809542']
+global.ownernomer = '212661809542'
 global.ownername = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
-global.botname = 'VIHANGA MD BOT'
-global.footer = 'VIHANGA MD'
-global.cap = '*Genarated By Vihanga Md*'
+global.botname = 'لقمان لمࢪاڪشي 😻'
+global.footer = 'لقمان لمࢪاڪشي 😻'
+global.cap = '*Genarated By LOIMANE BOT Md*'
 global.ig = 'https://github.com/vihangabot'
 global.region = 'Sri Lanka, Sabaragamuwa, Embilipitiya'
 global.sc = 'https://github.com/vihangabot'
@@ -39,7 +39,7 @@ global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'හරි ✓',
+    success: 'DONE ✓',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This Feature Is Only For Owner!',
